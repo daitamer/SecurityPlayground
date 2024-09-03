@@ -1,11 +1,9 @@
 package com.myorg.SecurityPlayground.service;
 
-import com.myorg.SecurityPlayground.repository.SecurityRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
-public class SecurityServiceImpl {
+public class UserServiceImpl {
 
 //    @Autowired
 //    SecurityRepository securityRepository;
